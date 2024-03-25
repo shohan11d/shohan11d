@@ -4,5 +4,8 @@
 
  
  ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/OS-Linux-2bbc8a?style=flat&logo=Linux%20Mint&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Neovim-red?style=flat&logo=Neovim&logoColor=white&label=%20Editor&labelColor=Blue)
+
+
+
