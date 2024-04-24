@@ -4,7 +4,7 @@
 
 ## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Mohammad Shohan and I'm a self-taught Web Developer. I'm from Bangladesh, living in Dhaka.
+I am Mohammad Shohan a self-taught Web Developer. I'm from Bangladesh, living in Dhaka.
 <br>
 I am a tech enthusiast with a passion for coding, gaming, and Linux distros.
 <br>
