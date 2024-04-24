@@ -4,7 +4,9 @@
 
 ## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Mohammad Shohan and I'm a Web Developer. I'm from Bangladesh, living in Dhaka. For any info contact me at "shohan11d@gmail.com"
+My name is Mohammad Shohan and I'm a self-taught Web Developer. I'm from Bangladesh, living in Dhaka.
+I am a tech enthusiast with a passion for coding, gaming, and Linux distros.
+For any info feel free to  contact me at "shohan11d@gmail.com"
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
