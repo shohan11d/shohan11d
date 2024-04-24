@@ -1,22 +1,69 @@
-<h1>Work in progress</h1>
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
-My name is Mohammad Shohan and I'm a Web developer / Software Developer . I'm from Bangladesh, living in Dhaka. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
- 
- ## 🔧 Technologies & Tools
-![Static Badge](https://img.shields.io/badge/OS-Linux-2bbc8a?style=flat&logo=Linux%20Mint&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Neovim-red?style=flat&logo=Neovim&logoColor=white&label=%20Editor&labelColor=Blue)
-![Static Badge](https://img.shields.io/badge/JavaScript-red?style=flat&logo=JavaScript&logoColor=white&label=%20Code&labelColor=Blue)
-![Static Badge](https://img.shields.io/badge/React-red?style=flat&logo=React&logoColor=white&label=%20Code)
-![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-red?style=flat&logo=tailwindcss&logoColor=white&label=%20Code)
-![Static Badge](https://img.shields.io/badge/Bootstrap-red?style=flat&logo=Bootstrap&logoColor=white&label=%20Code)
-![Static Badge](https://img.shields.io/badge/SAss-red?style=flat&logo=SAss&logoColor=white&label=%20Code)
-![Static Badge](https://img.shields.io/badge/Next.js-red?style=flat&logo=Next.js&logoColor=white&label=%20Code)
-![Static Badge](https://img.shields.io/badge/Figma-red?style=flat&logo=Figma&logoColor=white&label=%20Design)
-![Static Badge](https://img.shields.io/badge/Npm-red?style=flat&logo=NPM&logoColor=white&label=%20Tools)
+<!-- More info, tips, and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
 
+# Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+
+My name is Mohammad Shohan and I'm a Web Developer. I'm from Bangladesh, living in Dhaka. For any info contact me at "shohan11d@gmail.com"
+
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Static Badge](https://img.shields.io/badge/Editor-Neovim-2bbc8a?style=flat&logo=Neovim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-JavaScript-2bbc8a?style=flat&logo=javascript&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-React-2bbc8a?style=flat&logo=React&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-Tailwind-2bbc8a?style=flat&logo=tailwindcss&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-Bootstrap-2bbc8a?style=flat&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Code-SASS-2bbc8a?style=flat&logo=sass&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Shell-Bash-2bbc8a?style=flat&logo=Gnu%20bash&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tools-Git-2bbc8a?style=flat&logo=git&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tools-Github-2bbc8a?style=flat&logo=github&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Tools-Vite-2bbc8a?style=flat&logo=vite&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Design-figma-2bbc8a?style=flat&logo=figma&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Design-Adobe_XD-2bbc8a?style=flat&logo=adobexd&logoColor=white)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/shohan11d/shohan11d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shohan11d&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/shohan11d/shohan11d">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shohan11d&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+
+<a href="https://github.com/MartinHeinz/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=Bank-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
+<a href="https://github.com/shohan11d/guess-game">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=guess-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
+<!-- links to social media icons -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+
+<!-- links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://github.com/MartinHeinz
+[3]: https://www.linkedin.com/in/heinz-martin/
+
+
+<!-- Resources -->
+<!-- Icons: https://simpleicons.org/ -->
+<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Emojis: https://emojipedia.org/emoji/ -->
+<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
+<!-- Shields: https://shields.io/ -->
+<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
