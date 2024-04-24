@@ -2,7 +2,7 @@
 
 
 
-# Welcome, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 My name is Mohammad Shohan and I'm a Web Developer. I'm from Bangladesh, living in Dhaka. For any info contact me at "shohan11d@gmail.com"
 
