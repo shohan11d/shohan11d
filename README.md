@@ -1,7 +1,7 @@
 <!-- More info, tips, and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
-<img src="./octo.gif" height="180px" width="180px"></img>
+<img src="./octo.gif" height="150px" width="150px"></img>
 #### Hello,
 
 I am Mohammad Shohan a self-taught Web Developer. I'm from Bangladesh, living in Dhaka.
