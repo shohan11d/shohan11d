@@ -42,6 +42,12 @@ For any info feel free to  contact me at "shohan11d@gmail.com"
 <a href="https://github.com/shohan11d/guess-game">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=guess-game&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
+<a href="https://github.com/shohan11d/Retro-Bazaar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=Retro-Bazaar&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
+<a href="https://github.com/shohan11d/travel-guide">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=travel-guide&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 <!-- links to social media icons -->
 
