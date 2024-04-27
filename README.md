@@ -34,8 +34,8 @@ For any info feel free to  contact me at "shohan11d@gmail.com"
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shohan11d&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MartinHeinz/python-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=Bank-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/shohan11d/bank-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shohan11d&repo=bank-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
