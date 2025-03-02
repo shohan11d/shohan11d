@@ -2,8 +2,7 @@
 
 
 
-#### Hello,
-
+Hello there 👋
 Hi, I'm Mohammad Shohan, a self-taught Web Developer based in Dhaka, Bangladesh. I'm passionate about technology, with a strong interest in coding, gaming, and exploring different Linux distributions. I'm constantly learning and building new things to expand my skills.
 
 
