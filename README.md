@@ -1,9 +1,17 @@
 <!-- More info, tips, and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
 
 
+### Hello there 👋
 
-Hello there 👋
-Hi, I'm Mohammad Shohan, a self-taught Web Developer based in Dhaka, Bangladesh. I'm passionate about technology, with a strong interest in coding, gaming, and exploring different Linux distributions. I'm constantly learning and building new things to expand my skills.
+#### I'm Mohammad Shohan, a self-taught Web Developer based in Dhaka, Bangladesh. 
+
+
+
+- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
+- 🌍 I'm mostly active within the **Javascript Community**
+- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
+- 💬 `ping` me about **design**, **branding**, **laravel**, **development**, **design thinking**
+
 
 
 
