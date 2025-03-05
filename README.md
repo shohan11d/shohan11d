@@ -56,6 +56,10 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![VSCode](https://img.shields.io/badge/-vscode-000?&logo=vscodium)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
+![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+
 
 ### Full Stack Projects
 [![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
