@@ -42,7 +42,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=styled-components)
-![Sass (SCSS)](https://img.shields.io/badge/-Sass_SCSS-000?&logo=Sass)
+![Sass (SCSS)](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
 ### Database & Authentication
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
