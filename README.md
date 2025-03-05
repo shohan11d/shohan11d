@@ -20,19 +20,22 @@
 [![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
 
-### Languages
+### Programming Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Lua](https://img.shields.io/badge/-Lua-000?&logo=Lua)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 
-### Front-End Libraries & Frameworks
+
+
+### Front-End:
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-000?&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![React Context API](https://img.shields.io/badge/-React_Context_API-000?&logo=React)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux-000?&logo=Redux)
 ![React Query](https://img.shields.io/badge/-React_Query-000?&logo=React)
 ![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React)
-![Next.js App Router](https://img.shields.io/badge/-Next.js_App_Router-000?&logo=next.js)
 
 ### CSS Libraries 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=TailwindCSS)
@@ -41,13 +44,11 @@
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=styled-components)
 ![Sass (SCSS)](https://img.shields.io/badge/-Sass_SCSS-000?&logo=Sass)
 
-### Authentication
-![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000?&logo=Next.js)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-
-### Database
+### Database & Authentication
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000?&logo=Next.js)
+![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
 
 ### Tools 
 ![Git](https://img.shields.io/badge/-Git-000?&logo=git)
