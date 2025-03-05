@@ -33,7 +33,7 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next-000?&logo=next.js)
 ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Redux Toolkit](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-000?&logo=Redux)
 ![React Query](https://img.shields.io/badge/-React_Query-000?&logo=React)
 ![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React)
 ![Framer](https://img.shields.io/badge/-Framer-000?&logo=Framer)
