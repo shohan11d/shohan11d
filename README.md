@@ -37,6 +37,10 @@
 ![React Query](https://img.shields.io/badge/-React_Query-000?&logo=React)
 ![React Router](https://img.shields.io/badge/-React_Router-000?&logo=React)
 ![Framer](https://img.shields.io/badge/-Framer-000?&logo=Framer)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=Elementor)
+![cPanel](https://img.shields.io/badge/-cPanel-000?&logo=cPanel)
+
 
 
 ### CSS Libraries 
