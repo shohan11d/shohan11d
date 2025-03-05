@@ -46,7 +46,7 @@
 ### CSS Libraries 
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=TailwindCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=Shadcn)
+![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=shadcnui)
 ![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=styled-components)
 ![Sass (SCSS)](https://img.shields.io/badge/-Sass-000?&logo=Sass)
 
