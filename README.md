@@ -17,9 +17,8 @@ Dhaka, Bangladesh
         <li>Open to <strong>Frontend</strong> and <strong>Full-Stack</strong> opportunities</li>
       </ul>
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=dark&bg_color=1e1e1e&title_color=ffffff&text_color=b5b5b5&icon_color=fffff](https://64.media.tumblr.com/f4535c8d22df4ebfa7c47e14777138d2/tumblr_njolig48VO1t04x43o1_400.gif)" height="165" />
-    </td>
+    <td width="20%" valign="top" align="center">
+<img src="./octo.gif" height="185" width="100%" />    </td>
   </tr>
 </table>
 
