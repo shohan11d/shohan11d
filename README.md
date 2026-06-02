@@ -1,6 +1,7 @@
 # Mohammad Shohan
 
-### **Full-Stack Web Developer** | Problem Solver
+### **Full-Stack Web Developer** | Problem Solver  
+<sub style="color:#D97706">React • Next.js • TypeScript • Node.js</sub>  
 Dhaka, Bangladesh
 
 [Portfolio](https://ticadvisor.vercel.app) • [LinkedIn](https://linkedin.com/in/yourusername) • [Email](mailto:your@email.com)
@@ -9,17 +10,20 @@ Dhaka, Bangladesh
 
 <table>
   <tr>
-    <td width="60%" valign="top">
-<p>Full-Stack Web Developer focused on clean architecture and efficient problem solving.</p>      <br/>
-      <ul>
-        <li><strong>500+</strong> Problems Solved (Codeforces / CodeChef)</li>
-        <li>Strong foundation in <strong>Data Structures & Algorithms</strong></li>
-        <li>Open to <strong>Frontend</strong> and <strong>Full-Stack</strong> opportunities</li>
-      </ul>
-    </td>
-    <td width="20%" valign="top" align="center">
-<img src="./octo.gif" height="185" width="100%" />    </td>
-  </tr>
+    <td width="65%" valign="top">
+
+Full-Stack Web Developer focused on clean architecture and efficient problem solving.
+
+- **500+ Problems Solved** (Codeforces / CodeChef)  
+- Strong foundation in **Data Structures & Algorithms**  
+- Open to **Frontend** and **Full-Stack** opportunities  
+
+</td>
+
+<td width="35%" valign="top" align="center">
+  <img src="./octo.gif" height="185" />
+</td>
+</tr>
 </table>
 
 ---
@@ -38,12 +42,12 @@ Dhaka, Bangladesh
 
 ## 🧠 Currently Refining
 
-* **Competitive Programming** (Aiming for higher rating tiers)
-* **Advanced Data Structures & Algorithms**
-* **Scalable Backend Architecture & System Design**
+- Competitive Programming (Aiming for higher rating tiers)
+- Advanced Data Structures & Algorithms
+- Scalable Backend Architecture & System Design
 
 ---
 
 <p align="center">
-  <sub>Built with precision. Maintained on Linux.</sub>
+  <sub style="color:#6B7280">Built with precision. Maintained on Linux.</sub>
 </p>
