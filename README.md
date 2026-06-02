@@ -48,6 +48,14 @@ Full-Stack Web Developer focused on clean architecture and efficient problem sol
 
 ---
 
+## ✍️ Latest Blogs
+
+- [Mastering State Management with Redux Toolkit and TypeScript](https://dev.to)
+- [A Deep Dive into Next.js App Router & Server Components](https://medium.com)
+- [How Solving 500+ Algorithmic Problems Made Me a Better Developer](https://dev.to)
+
+---
+
 <p align="center">
   <sub style="color:#6B7280">Built with precision. Maintained on Fedora Workstation.</sub>
 </p>
