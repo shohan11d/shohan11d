@@ -40,7 +40,7 @@ Full-Stack Web Developer focused on clean architecture and efficient problem sol
 
 ---
 
-## 🧠 Currently Refining
+## 📚 Currently Refining
 
 - Competitive Programming (Aiming for higher rating tiers)
 - Advanced Data Structures & Algorithms
