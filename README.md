@@ -49,5 +49,5 @@ Full-Stack Web Developer focused on clean architecture and efficient problem sol
 ---
 
 <p align="center">
-  <sub style="color:#6B7280">Built with precision. Maintained on Linux.</sub>
+  <sub style="color:#6B7280">Built with precision. Maintained on Fedora Workstation.</sub>
 </p>
