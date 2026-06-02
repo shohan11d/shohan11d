@@ -20,8 +20,8 @@ Full-Stack Web Developer focused on clean architecture and efficient problem sol
 
 </td>
 
-<td width="35%" valign="top" align="center">
-  <img src="./octo.gif" height="185" />
+<td width="50%" valign="top" align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDF4emhnOGRrYzcxaGR3Y3g3c3RrejF2cDZ2Z2F6emkyODljNzk1MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" height="185" />
 </td>
 </tr>
 </table>
