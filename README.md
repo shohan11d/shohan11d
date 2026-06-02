@@ -48,7 +48,7 @@ Full-Stack Web Developer focused on clean architecture and efficient problem sol
 
 ---
 
-## ✍️ Latest Blogs
+## ✍🏼 Latest Blogs
 
 - [Mastering State Management with Redux Toolkit and TypeScript](https://dev.to)
 - [A Deep Dive into Next.js App Router & Server Components](https://medium.com)
