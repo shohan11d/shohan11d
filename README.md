@@ -1,85 +1,50 @@
-<!-- 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
--->
-<!--
-### Hello there 👋
+# Mohammad Shohan
 
-#### I'm Mohammad Shohan, a self-taught Web Developer based in Dhaka, Bangladesh. 
+### **Full-Stack Web Developer** | Problem Solver
+Dhaka, Bangladesh
 
+[Portfolio](https://ticadvisor.vercel.app) • [LinkedIn](https://linkedin.com/in/yourusername) • [Email](mailto:your@email.com)
 
+---
 
-- ⚙️ Currently working at **TIC Advisor**
-- 🌍 Focused on **React**, **Next.js**, and modern front-end development
-- 💬 Learning full-stack development to expand my skill set
-- ✍️ Occasionally write about tech & web development
-- 🌱 Exploring TypeScript, Tailwind CSS, and advanced React patterns
+<table>
+  <tr>
+    <td width="60%" valign="top">
+<p>Full-Stack Web Developer focused on clean architecture and efficient problem solving.</p>      <br/>
+      <ul>
+        <li><strong>500+</strong> Problems Solved (Codeforces / CodeChef)</li>
+        <li>Strong foundation in <strong>Data Structures & Algorithms</strong></li>
+        <li>Open to <strong>Frontend</strong> and <strong>Full-Stack</strong> opportunities</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <img src="[https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&hide=issues&count_private=true&theme=dark&bg_color=1e1e1e&title_color=ffffff&text_color=b5b5b5&icon_color=fffff](https://64.media.tumblr.com/f4535c8d22df4ebfa7c47e14777138d2/tumblr_njolig48VO1t04x43o1_400.gif)" height="165" />
+    </td>
+  </tr>
+</table>
 
-### Hi, I'm Shohan - Web Developer 👋
+---
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/dinhanhthi/)
-[![My Notes](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://dinhanhthi.com/notes)](https://dinhanhthi.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/dinhanhthi)](https://ko-fi.com/dinhanhthi)
--->
-### Programming Languages:
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
+## 🛠️ Tech Stack
 
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React · Next.js · TypeScript · Redux Toolkit · TanStack Query · Tailwind CSS · Shadcn UI |
+| **Backend** | Node.js · Express.js · REST APIs · JWT · NextAuth |
+| **Database** | MongoDB · MySQL · Supabase · Firebase |
+| **Languages** | JavaScript · TypeScript · C · C++ |
+| **Tools & OS** | Git · GitHub · Linux · Docker · Figma |
 
-### Front-End:
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Next.js](https://img.shields.io/badge/-Next-000?&logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-![Redux Toolkit](https://img.shields.io/badge/-ReduxToolkit-000?&logo=Redux)
-![React Query](https://img.shields.io/badge/-React_Query-000?&logo=reactquery)
-![React Router](https://img.shields.io/badge/-React_Router-000?&logo=reactrouter)
-![Framer](https://img.shields.io/badge/-Framer-000?&logo=Framer)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Elementor](https://img.shields.io/badge/-Elementor-000?&logo=Elementor)
-![cPanel](https://img.shields.io/badge/-cPanel-000?&logo=cPanel)
+---
 
+## 🧠 Currently Refining
 
+* **Competitive Programming** (Aiming for higher rating tiers)
+* **Advanced Data Structures & Algorithms**
+* **Scalable Backend Architecture & System Design**
 
-### CSS Libraries 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=TailwindCSS)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
-![Shadcn](https://img.shields.io/badge/-Shadcn-000?&logo=shadcnui)
-![Styled Components](https://img.shields.io/badge/-Styled_Components-000?&logo=styled-components)
-![Sass (SCSS)](https://img.shields.io/badge/-Sass-000?&logo=Sass)
+---
 
-### Database & Authentication
-![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
-![NextAuth.js](https://img.shields.io/badge/-NextAuth.js-000?&logo=Next.js)
-![Auth0](https://img.shields.io/badge/-Auth0-000?&logo=Auth0)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-
-### Tools 
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
-![VSCode](https://img.shields.io/badge/-vscode-000?&logo=vscodium)
-![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![Fedora](https://img.shields.io/badge/-Fedora-000?&logo=Fedora)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-
-<!--
-### Full Stack Projects
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
--->
-
-<!--
-## Latest Articles
-<!-- BLOG-POST-LIST:START 
-- [Rust From & Into Traits - A Full Beginner’s Guide 🦀](https://dev.to/ansonh/rust-from-into-traits-a-full-beginners-guide-1m9l)
-- [10 More VS Code Vim Tricks to Code Faster ⚡](https://dev.to/ansonh/10-more-vs-code-vim-tricks-to-become-a-faster-coder-ndi)
-- [10 VS Code Vim Tricks to Boost Your Productivity ⚡](https://dev.to/ansonh/10-vs-code-vim-tricks-to-boost-your-productivity-1b0n)
-<!-- BLOG-POST-LIST:END -->
- 
+<p align="center">
+  <sub>Built with precision. Maintained on Linux.</sub>
+</p>
